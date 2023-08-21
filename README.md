@@ -690,3 +690,9 @@
 			- ![image](Attachments/CleanShot%202023-08-03%20at%2014.07.08%402x.png)
 - Grid is only a replacement for float-based layout, where float-based layout it being used to try and create a two-dimensional grid. If you want to wrap text around an image, I’d suggest floating it.
 - Grid is only a replacement for flexbox if you have been trying to make flexbox into a two-dimensional grid. If you want to take a bunch of items and space them out evenly in a single row, use flexbox.
+
+## Other projects
+- Font download local, at `app/assets/fonts/MuseoSansRounded-100.otf`
+- Have defined media breakpoints , `@include media-breakpoint-up('xl')`
+- All use `rem` function
+- Good reference, may come back once I do scss
